@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733780029 source:c:\users\hamza trabelsi\desktop\ensi\c\porjet c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
